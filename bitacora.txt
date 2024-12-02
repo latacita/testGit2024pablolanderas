@@ -16,3 +16,6 @@
         git commit 
 19.     git checkout master
 20.     git stash pop
+26.     git tag "PasosExtras"
+27.     git checkout master
+28.     git cherry-pick PasosExtras
