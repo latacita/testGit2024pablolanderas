@@ -1,0 +1,3 @@
+Al intentar subir el archivo a Master había cambios en el repositorio, por lo que
+he hecho un git pull, para bajarle los cambios, he solucionado el conflicto que había,
+he hecho un add y un commit vacío y he subido los cambios.
