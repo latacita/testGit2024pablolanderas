@@ -9,3 +9,5 @@
 1.      git clone https://github.com/latacita/testGit2024pablolanderas
 4.      git branch PrimeraRama
         git checkout PrimeraRama
+6.      git branch SegundaRama
+        git checkout SegundaRama
