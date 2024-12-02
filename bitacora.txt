@@ -7,3 +7,5 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 1.      git clone https://github.com/latacita/testGit2024pablolanderas
+4.      git branch PrimeraRama
+        git checkout PrimeraRama
