@@ -11,3 +11,19 @@
         git checkout PrimeraRama
 6.      git branch SegundaRama
         git checkout SegundaRama
+14.                                 Fusionar SegundaRama en PrimeraRama
+                                    sería recursivo ya que SegundaRama
+                                    al ir por delante de PrimeraRama 
+                                    solo tendría que añadir los cambios
+                                    nuevos, no han avanzado por distinto
+                                    camino, SegundaRama es PrimeraRama
+                                    más avanzada.
+15.                                 Si no se vuelve al stash seria el 
+                                    mismo caso que antes, ya que PrimeraRama
+                                    va por delante de main. En caso de 
+                                    volver a los datos de stash, como main
+                                    y PrimeraRama han avanzado en paralelo,
+                                    ya no se podría hacer de manera recursiva,
+                                    por lo que se haría de forma recursiva
+13.    git checkout SegundaRama 
+        
